@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  .error
+    h1= error.status
+    h2= error.message
+    br
+    a.button.error-button(href="/") HOME
+    br
+    pre= error.stack

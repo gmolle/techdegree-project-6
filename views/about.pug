@@ -1,0 +1,49 @@
+extends layout.pug
+
+block content 
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  article.grid-container.portfolio-intro.portfolio-project
+    .grid-x
+      .cell.small-6.medium-9.large-9
+
+        //- Add your name.
+        h1 Garrett Molle
+
+        //- Feel free personalize the title below
+        p.lead.text-light
+          | Full Stack JavaScript Developer.
+
+        //- Replace the boilerplate below with your Elevator pitch below.
+        .portfolio-bio
+          p
+            | Hi! I am a web developer living in Columbus, Ohio. I am currently enrolled in Treehouse's Full Stack JavaScript Techdegree. So far it has been a great experience and I have learned a lot about how to make websites more interactive. I can't wait to get a full time position in the tech industry.
+      .cell.portfolio-meta.small-6.medium-2.large-3
+        h6 Skills
+
+        //- Replace the text in the li tags below with your own skills.  At this point, you should be able to list at least ten skills.
+        ul
+          li Express
+          li HTML5
+          li CSS3
+          li Node.js
+          li JavaScript
+          li Pug
+          li jQuery
+          li JSON
+          li git
+          li NPM
+        h6 Contact Info
+
+        //- Add your own contact info
+        ul
+          li 440-653-7569
+          li molle_g@yahoo.com
+
+        //- Add URLs to the hrefs below to link to your social media accounts.
+        a.button.expanded(href='') LinkedIn
+        a.button.expanded(href='https://github.com/gmolle' target="_blank") GitHub
+        a.button.expanded(href='') Twitter
+  nav.grid-container.portfolio-breadcrumb
+    a(href='/') ← Back
+  

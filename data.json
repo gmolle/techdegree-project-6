@@ -1,0 +1,91 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Public API Request",
+      "description": "This project uses Fetch API to request data from a public API. The project will allow ussers to search through the directory of employees. If an employee is clicked a modal will open with more info on the employee as well as buttons to allow the user to move through each employee",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ES6",
+        "JSON"
+      ],
+      "live_link": "https://gmolle.github.io/techdegree-project-5/",
+      "github_link": "https://github.com/gmolle/techdegree-project-5",
+      "image_urls": [
+        "/static/img/project5-1.png",
+        "/static/img/project5-2.png",
+        "/static/img/project5-3.png"
+      ]
+    },
+    {
+      "id": 1,
+      "project_name": "Object Oriented Programming Game",
+      "description": "Game created with object oriented programming. The game generates a phrase onto the screen with empty boxes in place of the letters. The user then has to try and guess what the phrase is without running out of lives.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "ES6"
+      ],
+      "live_link": "https://gmolle.github.io/techdegree-project-4/",
+      "github_link": "https://github.com/gmolle/techdegree-project-4",
+      "image_urls": [
+        "/static/img/project4-1.png",
+        "/static/img/project4-2.png",
+        "/static/img/project4-3.png"
+      ]
+    },
+    {
+      "id": 2,
+      "project_name": "Interactive Form",
+      "description": "A form that has been made interactive. The form uses regex to validate the users input and if any of the info is entered incorrectly an error is shown",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "jQuery"
+      ],
+      "live_link": "https://gmolle.github.io/techdegree-project-3/",
+      "github_link": "https://github.com/gmolle/techdegree-project-3",
+      "image_urls": [
+        "/static/img/project3-1.png",
+        "/static/img/project3-2.png",
+        "/static/img/project3-3.png"
+      ]
+    },
+    {
+      "id": 3,
+      "project_name": "List Pagination and Filtering",
+      "description": "An app that creates pagination links at the bottom of the page based on the amount of students in the list. A search bar was added allowing the user the ability to search through the list.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://gmolle.github.io/techdegree-project-2/",
+      "github_link": "https://github.com/gmolle/techdegree-project-2",
+      "image_urls": [
+        "/static/img/project2-1.png",
+        "/static/img/project2-2.png"
+      ]
+    },
+    {
+      "id": 4,
+      "project_name": "Random Quote Generator",
+      "description": "Using basic JavaScript syntax, variables, loops, conditionals and object literals, I've built this an app that displays a motivational quote when the button is clicked or after a certain amount of time has passed.",
+      "technologies": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ],
+      "live_link": "https://gmolle.github.io/Techdegree-Project-1/",
+      "github_link": "https://github.com/gmolle/Techdegree-Project-1",
+      "image_urls": [
+        "/static/img/project1-1.png",
+        "/static/img/project1-2.png"
+      ]
+    }
+  ]
+}
