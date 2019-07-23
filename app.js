@@ -9,7 +9,8 @@ app.set('view engine', 'pug');
 app.use('/static', express.static('public'))
 
 app.get('/', (req, res) => {
-  res.render('index', { projects: data.properties });
+  const templateData = { projects }
+  res.render('index', templateData);
 });
 
 app.get('/project/:id', (req, res, next) => {
