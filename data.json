@@ -8,7 +8,6 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "ES6",
         "JSON"
       ],
       "live_link": "https://gmolle.github.io/techdegree-project-5/",
@@ -26,8 +25,7 @@
       "technologies": [
         "HTML",
         "CSS",
-        "JavaScript",
-        "ES6"
+        "JavaScript"
       ],
       "live_link": "https://gmolle.github.io/techdegree-project-4/",
       "github_link": "https://github.com/gmolle/techdegree-project-4",
