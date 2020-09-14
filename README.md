@@ -1,7 +1,5 @@
 # Static Node.js and Express Site
 Portfolio site created using Express, Node.js, and Pug
-
- View live demo [here](https://static-express-site.herokuapp.com/)
  
  ## Exceeds Expectations CSS Style Changes:
 
